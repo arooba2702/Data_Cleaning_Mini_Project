@@ -1,0 +1,467 @@
+Order ID,Customer Name,Email,Phone,Age,City,Product,Order Date,Quantity,Unit Price,Amount,Payment Method,Status
+1001,Danish Malik,danish.malik72@yahoo.com,0344-7038374,55,Unknown,Laptop,2026-03-23,1,1219.09,1219.0,Credit Card,Shipped
+1002,Hina Tariq,hina.tariq74@yahoo.com,0300-3823498,23,Faisalabad,Monitor,2026-07-14,3,151.92,456.0,Cash on Delivery,Shipped
+1003,Zain Iqbal,zain.iqbal30@gmail.com,0345-4491946,44,Faisalabad,Mouse,2026-04-19,2,47.34,94.68,Easypaisa,Pending
+1004,Bilal Sheikh,bilal.sheikh88@mail.com,0345-6402509,47,Lahore,Mouse,2026-01-06,1,31.58,31.58,JazzCash,Returned
+1005,Kamran Malik,kamran.malik70@outlook.com,0333-8197443,44,Islamabad,Tablet,,1,345.64,346.0,JazzCash,Cancelled
+1006,Saad Raza,saad.raza57@outlook.com,0312-3769795,44,Karachi,Phone,,4,678.84,2715.0,Credit Card,Completed
+1007,Amna Butt,amna.butt55@mail.com,0300-1651177,44,Rawalpindi,Laptop,2026-05-08,1,1059.91,1060.0,Credit Card,Pending
+1008,Omar Sheikh,omar.sheikh8@yahoo.com,0345-4449368,47,Karachi,Headphones,2026-09-07,1,186.19,186.0,Credit Card,Cancelled
+1009,Sara Butt,sara.butt73@yahoo.com,0300-1375453,55,Lahore,Laptop,2026-05-14,1,735.1,735.0,Cash,Completed
+1010,Noor Farooq,noor.farooq48@hotmail.com,0344-5075395,59,Islamabad,Monitor,2026-06-03,2,224.34,449.0,Credit Card,Completed
+1011,Laiba Javed,Not provided,0302-4394880,46,Lahore,Phone,2026-01-05,2,427.03,854.06,Bank Transfer,Cancelled
+1012,Sara Zahra,sara.zahra53@outlook.com,0312-2726327,29,Karachi,Keyboard,2026-04-02,1,56.44,56.0,Cash on Delivery,Pending
+1013,Unknown,hamza.noor43@hotmail.com,0321-5891254,43,Karachi,Headphones,2026-06-19,1,146.23,146.0,Cash,Pending
+1014,Sara Malik,sara.malik95@yahoo.com,0301-5539837,60,Rawalpindi,Keyboard,2026-06-03,2,47.59,95.18,Cash on Delivery,Pending
+1015,Mehwish Raza,mehwish.raza84@hotmail.com,0315-3585314,65,Unknown,Phone,2026-05-26,4,523.29,2093.16,Cash on Delivery,Pending
+1016,Noor Farooq,noor.farooq97@gmail.com,0312-2950888,62,Rawalpindi,Phone,2026-05-08,1,774.27,774.0,Credit Card,Returned
+1017,Faisal Javed,faisal.javed82@hotmail.com,0344-8130188,35,Karachi,Keyboard,2026-05-27,2,38.8,77.6,JazzCash,Completed
+1018,Unknown,maria.hussain74@mail.com,0333-5009888,44,Faisalabad,Mouse,2026-04-23,1,14.42,14.42,JazzCash,Unknown
+1019,Kamran Hussain,kamran.hussain7@hotmail.com,0312-7628588,42,Unknown,Mouse,2026-05-10,1,14.93,14.93,Bank Transfer,Shipped
+1020,Maria Tariq,maria.tariq48@yahoo.com,0301-2747534,24,Lahore,Headphones,2026-07-12,1,192.31,192.31,Credit Card,Returned
+1021,Maria Malik,maria.malik63@gmail.com,0333-7713146,45,Islamabad,Mouse,2026-05-19,3,40.44,121.32,JazzCash,Cancelled
+1022,Hamza Butt,hamza.butt44@hotmail.com,0321-9324626,44,Rawalpindi,Headphones,2026-05-04,4,64.19,257.0,Cash,Returned
+1023,Imran Mirza,imran.mirza30@gmail.com,0333-2005795,62,Rawalpindi,Monitor,2026-09-05,1,381.67,382.0,JazzCash,Completed
+1024,Hassan Ali,hassan.ali74@hotmail.com,0315-5716097,21,Karachi,Tablet,2026-02-28,1,252.37,252.0,Credit Card,Returned
+1025,Sara Raza,sara.raza55@hotmail.com,0300-1664863,31,Faisalabad,Phone,2026-02-11,4,777.24,3108.96,Credit Card,Shipped
+1026,Omar Bhatti,Not provided,0302-1198058,44,Faisalabad,Monitor,2026-05-28,1,216.12,216.12,Cash,Pending
+1027,Faisal Javed,faisal.javed35@outlook.com,Not provided,48,Faisalabad,Monitor,2026-05-23,2,264.46,528.92,Easypaisa,Completed
+1028,Iqra Zahra,iqra.zahra99@mail.com,0300-9103209,21,Faisalabad,Monitor,2026-09-13,2,229.99,459.98,Cash,Completed
+1029,Komal Farooq,komal.farooq15@mail.com,0302-8361353,36,Unknown,Monitor,2026-08-01,1,410.68,410.68,Cash,Completed
+1030,Ahmed Ali,ahmed.ali85@mail.com,0315-9035882,39,Lahore,Keyboard,2026-07-13,3,53.12,159.36,Cash,Pending
+1031,Talha Hussain,talha.hussain43@gmail.com,0315-1672884,47,Karachi,Unknown,2026-03-15,1,806.41,806.41,Credit Card,Pending
+1032,Kamran Bhatti,kamran.bhatti37@yahoo.com,0345-1651601,63,Rawalpindi,Mouse,2026-03-27,1,24.69,25.0,Credit Card,Completed
+1033,Nida Zahra,nida.zahra33@mail.com,0300-7805654,61,Karachi,Tablet,2026-08-15,1,343.81,343.81,Cash,Shipped
+1034,Imran Iqbal,imran.iqbal73@gmail.com,0315-4801541,32,Islamabad,Monitor,2026-04-23,1,398.95,399.0,Easypaisa,Returned
+1035,Noor Raza,noor.raza47@outlook.com,0321-2760597,48,Islamabad,Mouse,2026-06-23,2,12.08,24.16,Credit Card,Pending
+1037,Sara Farooq,sara.farooq63@outlook.com,0321-0548888,31,Faisalabad,Monitor,2026-07-05,1,158.32,158.0,JazzCash,Returned
+1038,Fatima Ahmed,fatima.ahmed9@outlook.com,0312-3909069,27,Lahore,Monitor,2026-01-02,5,211.04,1055.2,Credit Card,Completed
+1039,Hina Khan,hina.khan58@outlook.com,0300-8748499,59,Lahore,Phone,2026-09-03,2,259.66,519.32,Credit Card,Cancelled
+1040,Usman Tariq,usman.tariq84@outlook.com,0312-7215376,32,Rawalpindi,Tablet,2026-07-24,1,423.73,423.73,Cash on Delivery,Pending
+1041,Fatima Raza,fatima.raza86@mail.com,0300-4825620,40,Faisalabad,Mouse,2026-04-19,1,46.77,46.77,Credit Card,Cancelled
+1042,Fatima Malik,fatima.malik90@hotmail.com,0333-0102438,27,Faisalabad,Headphones,2026-02-05,1,70.14,70.14,Credit Card,Cancelled
+1043,Zain Hussain,zain.hussain63@outlook.com,0321-3616647,25,Faisalabad,Monitor,2026-05-26,1,269.7,270.0,JazzCash,Completed
+1044,Maria Hussain,maria.hussain72@hotmail.com,Not provided,44,Rawalpindi,Keyboard,2026-08-08,1,19.11,19.11,Cash on Delivery,Shipped
+1045,Ali Butt,ali.butt43@yahoo.com,Not provided,40,Faisalabad,Phone,2026-05-01,2,770.86,1541.72,Credit Card,Returned
+1046,Usman Noor,usman.noor39@hotmail.com,0333-8511700,44,Islamabad,Headphones,2026-07-08,1,133.03,133.0,Credit Card,Cancelled
+1047,Ahmed Chaudhry,ahmed.chaudhry92@gmail.com,0302-0656695,46,Karachi,Keyboard,2026-09-25,2,56.57,113.14,Cash,Shipped
+1048,Noor Bhatti,noor.bhatti45@hotmail.com,0345-2163449,23,Faisalabad,Laptop,2026-06-18,2,1252.46,2504.92,Bank Transfer,Cancelled
+1049,Usman Siddiqui,usman.siddiqui95@outlook.com,Not provided,57,Lahore,Keyboard,2026-03-20,1,42.14,42.0,Easypaisa,Completed
+1050,Laiba Chaudhry,laiba.chaudhry74@mail.com,0321-6406756,44,Islamabad,Laptop,2026-03-12,2,987.6,1975.2,JazzCash,Cancelled
+1051,Komal Malik,komal.malik51@outlook.com,0345-1369112,19,Karachi,Mouse,2026-06-21,3,43.53,131.0,Cash,Cancelled
+1052,Imran Raza,imran.raza7@yahoo.com,0315-1053729,49,Faisalabad,Headphones,2026-09-21,1,147.0,147.0,Cash,Cancelled
+1053,Fatima Sheikh,fatima.sheikh48@hotmail.com,0333-1133461,64,Faisalabad,Keyboard,2026-06-20,2,46.24,92.0,Cash on Delivery,Completed
+1054,Hassan Chaudhry,hassan.chaudhry70@mail.com,0312-4800144,21,Lahore,Mouse,2026-05-20,1,28.1,28.1,Cash on Delivery,Shipped
+1055,Kamran Noor,kamran.noor38@hotmail.com,0345-2795835,40,Karachi,Monitor,2026-06-30,1,348.38,348.38,Easypaisa,Completed
+1056,Usman Hussain,usman.hussain73@gmail.com,0315-6223751,22,Karachi,Tablet,2026-07-07,2,380.89,761.78,Cash,Completed
+1057,Laiba Noor,laiba.noor92@mail.com,0333-5828829,53,Rawalpindi,Monitor,2026-03-22,4,290.86,1163.44,Easypaisa,Shipped
+1058,Faisal Sheikh,faisal.sheikh92@mail.com,0345-9645230,44,Karachi,Laptop,2026-08-27,2,1389.59,2779.0,JazzCash,Completed
+1059,Saad Raza,saad.raza71@hotmail.com,0321-8950276,59,Faisalabad,Monitor,2026-03-20,3,285.95,857.85,Easypaisa,Cancelled
+1060,Sara Khan,sara.khan88@mail.com,0301-1005173,44,Faisalabad,Laptop,2026-06-24,2,731.82,1463.64,Bank Transfer,Shipped
+1061,Ahmed Raza,ahmed.raza42@outlook.com,0312-2673322,50,Rawalpindi,Headphones,,2,86.7,173.4,JazzCash,Pending
+1062,Zain Aslam,zain.aslam52@gmail.com,0312-6082139,22,Karachi,Tablet,2026-05-24,1,171.9,171.9,Easypaisa,Completed
+1063,Ahmed Zahra,ahmed.zahra20@outlook.com,0302-5502353,38,Unknown,Headphones,2026-06-03,2,197.62,395.24,JazzCash,Cancelled
+1064,Nida Mirza,nida.mirza75@outlook.com,0300-9789896,51,Faisalabad,Headphones,2026-07-14,1,22.99,23.0,Credit Card,Completed
+1065,Zain Khan,zain.khan85@mail.com,0333-2905518,52,Lahore,Monitor,2026-05-16,1,223.52,224.0,Cash,Pending
+1066,Maria Farooq,maria.farooq45@yahoo.com,0321-1325893,46,Lahore,Headphones,2026-09-03,1,72.02,72.0,Cash,Pending
+1068,Unknown,komal.noor14@hotmail.com,0344-8796605,26,Islamabad,Monitor,2026-05-20,1,411.14,411.0,Credit Card,Returned
+1069,Hamza Noor,hamza.noor18@mail.com,0312-0114590,33,Faisalabad,Laptop,2026-06-18,2,1215.63,2431.0,Credit Card,Shipped
+1070,Imran Sheikh,imran.sheikh20@mail.com,0333-6976731,48,Islamabad,Laptop,2026-05-07,1,1167.45,1167.0,Credit Card,Cancelled
+1071,Imran Zahra,imran.zahra66@mail.com,0315-2213658,47,Rawalpindi,Laptop,2026-06-07,1,1342.07,1342.0,Credit Card,Cancelled
+1072,Usman Ahmed,usman.ahmed49@mail.com,0345-6302286,44,Karachi,Monitor,2026-06-28,1,233.69,233.69,Cash on Delivery,Pending
+1073,Hassan Khan,Not provided,0300-4037710,24,Islamabad,Headphones,2026-01-25,1,24.09,24.09,Unknown,Cancelled
+1074,Zain Ahmed,zain.ahmed36@gmail.com,0302-7167236,21,Islamabad,Phone,2026-09-26,1,577.53,578.0,Credit Card,Completed
+1075,Saad Javed,saad.javed11@mail.com,0301-8986473,30,Faisalabad,Monitor,2026-01-21,1,199.52,199.52,Easypaisa,Cancelled
+1076,Zain Mirza,zain.mirza31@outlook.com,0321-6386444,59,Rawalpindi,Phone,2026-07-04,1,815.0,815.0,Credit Card,Cancelled
+1077,Saad Butt,saad.butt32@mail.com,0333-4317226,49,Rawalpindi,Phone,2026-08-24,1,490.96,490.96,Credit Card,Cancelled
+1078,Iqra Noor,Not provided,0315-6261268,44,Unknown,Keyboard,,4,89.27,357.08,Cash on Delivery,Unknown
+1079,Faisal Iqbal,faisal.iqbal35@mail.com,Not provided,62,Karachi,Keyboard,2026-02-11,1,88.31,88.0,Credit Card,Shipped
+1080,Ahmed Javed,ahmed.javed89@outlook.com,0300-1247353,35,Lahore,Monitor,2026-01-17,1,138.52,138.52,Credit Card,Cancelled
+1081,Bilal Hussain,Not provided,0345-5475691,44,Lahore,Laptop,2026-09-09,2,909.49,1819.0,Cash on Delivery,Returned
+1082,Talha Hussain,talha.hussain57@hotmail.com,0301-2223098,44,Rawalpindi,Laptop,,1,1240.52,1240.52,Credit Card,Shipped
+1083,Amna Hussain,amna.hussain9@yahoo.com,0345-5029008,22,Rawalpindi,Laptop,2026-09-11,1,904.29,904.0,Credit Card,Completed
+1084,Ahmed Butt,ahmed.butt51@hotmail.com,0315-9661651,38,Islamabad,Headphones,2026-07-06,3,131.63,395.0,Easypaisa,Completed
+1085,Noor Javed,noor.javed20@mail.com,0301-7534089,48,Rawalpindi,Laptop,2026-01-19,1,1367.1,1367.1,JazzCash,Completed
+1086,Unknown,hina.sheikh66@outlook.com,0312-7478923,47,Rawalpindi,Mouse,2026-09-14,1,35.92,35.92,JazzCash,Shipped
+1087,Komal Tariq,komal.tariq3@hotmail.com,0302-4092180,53,Rawalpindi,Laptop,2026-08-25,2,1281.92,2564.0,Credit Card,Returned
+1088,Sana Hussain,sana.hussain42@yahoo.com,0321-8212178,58,Lahore,Laptop,2026-07-20,3,1216.17,3648.51,JazzCash,Returned
+1089,Imran Farooq,imran.farooq69@yahoo.com,0315-4845843,38,Faisalabad,Keyboard,2026-01-28,2,59.26,118.52,JazzCash,Shipped
+1090,Mehwish Qureshi,mehwish.qureshi59@outlook.com,0315-9222874,54,Islamabad,Mouse,2026-07-07,2,28.79,57.58,Bank Transfer,Pending
+1091,Sana Malik,sana.malik91@outlook.com,0302-2335975,31,Lahore,Mouse,2026-06-29,2,42.86,85.72,Credit Card,Pending
+1092,Nida Aslam,nida.aslam42@yahoo.com,0345-8211754,58,Islamabad,Tablet,2026-07-12,1,578.58,578.58,Credit Card,Pending
+1093,Imran Zahra,imran.zahra28@mail.com,0321-5666591,26,Islamabad,Monitor,2026-06-25,1,433.58,433.58,Credit Card,Cancelled
+1094,Ali Malik,ali.malik84@yahoo.com,Not provided,64,Islamabad,Headphones,2026-08-08,1,48.44,48.0,Credit Card,Completed
+1095,Bilal Aslam,Not provided,0302-2396676,44,Karachi,Unknown,2026-03-26,1,587.64,588.0,Easypaisa,Shipped
+1096,Rabia Chaudhry,rabia.chaudhry93@outlook.com,0300-5060836,56,Karachi,Headphones,2026-07-20,3,59.1,177.3,Cash,Completed
+1097,Maria Mirza,maria.mirza99@gmail.com,Not provided,44,Islamabad,Mouse,2026-07-23,1,32.95,32.95,JazzCash,Shipped
+1098,Imran Hussain,imran.hussain83@gmail.com,0345-4003671,44,Islamabad,Laptop,2026-03-01,1,1148.38,1148.0,Cash,Returned
+1099,Laiba Noor,laiba.noor16@gmail.com,0345-4563077,34,Islamabad,Laptop,2026-09-12,1,708.87,709.0,JazzCash,Completed
+1100,Fatima Noor,fatima.noor23@gmail.com,0345-3766741,44,Unknown,Tablet,2026-05-19,3,498.0,1494.0,Credit Card,Completed
+1101,Ayesha Sheikh,ayesha.sheikh95@outlook.com,0333-9926926,30,Rawalpindi,Headphones,2026-05-06,1,112.84,112.84,Credit Card,Shipped
+1102,Danish Khan,danish.khan67@mail.com,0333-7691649,23,Lahore,Tablet,2026-03-10,2,150.66,301.0,Easypaisa,Shipped
+1103,Noor Raza,noor.raza22@mail.com,0345-2025626,31,Karachi,Phone,2026-05-16,3,439.59,1318.77,Easypaisa,Cancelled
+1104,Sara Ali,sara.ali71@yahoo.com,Not provided,21,Karachi,Headphones,2026-03-08,1,174.18,174.18,Easypaisa,Returned
+1105,Usman Aslam,usman.aslam74@mail.com,0345-8323619,44,Islamabad,Keyboard,2026-07-01,3,34.41,103.23,Cash,Completed
+1106,Sara Bhatti,sara.bhatti49@hotmail.com,0315-5771934,50,Faisalabad,Keyboard,,2,61.27,122.54,Credit Card,Pending
+1107,Sara Mirza,sara.mirza23@yahoo.com,0333-6019382,19,Lahore,Keyboard,2026-03-14,2,41.81,83.62,JazzCash,Completed
+1108,Iqra Ahmed,iqra.ahmed19@gmail.com,0333-1216878,60,Karachi,Laptop,2026-06-22,2,739.32,1478.64,Credit Card,Shipped
+1109,Zara Mirza,zara.mirza1@outlook.com,0300-3054824,57,Rawalpindi,Mouse,2026-02-23,2,21.33,42.66,Bank Transfer,Shipped
+1110,Kamran Noor,Not provided,0345-2790695,49,Lahore,Mouse,2026-07-12,1,45.18,45.18,Easypaisa,Returned
+1111,Maria Noor,maria.noor79@mail.com,0345-2768193,45,Lahore,Monitor,2026-06-19,3,144.32,432.96,Bank Transfer,Cancelled
+1112,Hamza Farooq,hamza.farooq38@gmail.com,0301-5173311,48,Faisalabad,Tablet,2026-05-16,1,256.9,256.9,Credit Card,Shipped
+1113,Fatima Noor,fatima.noor8@mail.com,0345-8984440,48,Islamabad,Monitor,2026-09-01,1,134.72,134.72,Bank Transfer,Cancelled
+1114,Junaid Qureshi,junaid.qureshi26@yahoo.com,0321-5364506,22,Karachi,Headphones,2026-07-23,5,122.87,614.0,JazzCash,Completed
+1115,Zara Bhatti,zara.bhatti53@hotmail.com,0315-9596957,20,Faisalabad,Keyboard,2026-03-15,1,54.19,54.19,Cash on Delivery,Shipped
+1116,Imran Sheikh,imran.sheikh96@mail.com,0333-4520117,56,Rawalpindi,Laptop,2026-08-15,4,1222.02,4888.08,Bank Transfer,Cancelled
+1117,Amna Zahra,Not provided,Not provided,30,Karachi,Headphones,2026-09-16,2,30.12,60.24,Easypaisa,Shipped
+1118,Iqra Bhatti,iqra.bhatti28@yahoo.com,0312-4514473,50,Islamabad,Monitor,2026-01-05,3,178.6,536.0,Credit Card,Completed
+1119,Maria Iqbal,maria.iqbal14@gmail.com,0333-9419687,56,Rawalpindi,Keyboard,2026-02-25,1,75.38,75.38,Cash,Pending
+1120,Hamza Farooq,hamza.farooq52@mail.com,0312-5757387,32,Lahore,Phone,2026-07-03,2,347.45,694.9,Easypaisa,Completed
+1121,Nida Malik,nida.malik43@hotmail.com,0321-7780612,48,Islamabad,Monitor,2026-02-06,1,162.22,162.22,Credit Card,Shipped
+1122,Faisal Farooq,faisal.farooq23@hotmail.com,0300-7584194,28,Islamabad,Monitor,2026-09-08,3,137.84,414.0,Credit Card,Returned
+1123,Sana Hussain,sana.hussain89@hotmail.com,0301-6434909,37,Karachi,Monitor,2026-06-02,1,438.56,438.56,JazzCash,Shipped
+1124,Sana Raza,sana.raza47@gmail.com,0321-8971338,56,Karachi,Tablet,2026-02-25,1,598.26,598.26,Unknown,Shipped
+1125,Omar Hussain,omar.hussain14@outlook.com,0301-4743032,24,Islamabad,Laptop,2026-05-15,1,1083.1,1083.1,Cash on Delivery,Pending
+1126,Ayesha Ahmed,Not provided,0312-7663014,36,Rawalpindi,Keyboard,2026-02-21,1,52.23,52.23,Cash,Returned
+1127,Kamran Siddiqui,kamran.siddiqui24@gmail.com,0315-4560602,62,Rawalpindi,Mouse,2026-03-27,3,12.87,38.61,Credit Card,Completed
+1128,Hina Siddiqui,hina.siddiqui6@gmail.com,0333-0207369,61,Karachi,Keyboard,2026-04-25,2,51.2,102.4,Cash on Delivery,Cancelled
+1129,Hina Siddiqui,hina.siddiqui64@yahoo.com,Not provided,35,Lahore,Mouse,2026-07-13,1,38.52,38.52,JazzCash,Cancelled
+1130,Omar Tariq,omar.tariq72@yahoo.com,0315-5718584,21,Lahore,Headphones,2026-06-19,1,109.72,109.72,JazzCash,Shipped
+1131,Imran Chaudhry,imran.chaudhry96@mail.com,0312-3146456,43,Lahore,Laptop,2026-06-23,2,768.21,1536.42,Easypaisa,Cancelled
+1132,Hina Chaudhry,hina.chaudhry14@mail.com,0333-8457564,44,Rawalpindi,Monitor,2026-05-08,4,337.29,1349.16,Cash,Completed
+1133,Bilal Siddiqui,bilal.siddiqui87@yahoo.com,0302-8453929,58,Karachi,Keyboard,2026-06-30,2,67.5,135.0,Easypaisa,Returned
+1134,Laiba Javed,Not provided,0300-6017692,24,Karachi,Tablet,2026-04-25,1,544.86,544.86,Cash,Pending
+1136,Hamza Javed,hamza.javed74@outlook.com,0333-8814666,29,Lahore,Tablet,2026-03-23,2,208.53,417.06,Credit Card,Pending
+1137,Noor Butt,noor.butt79@outlook.com,0300-5384429,25,Unknown,Tablet,,1,312.36,312.36,Cash on Delivery,Cancelled
+1138,Omar Mirza,omar.mirza55@gmail.com,0345-1209981,27,Lahore,Laptop,2026-01-20,2,907.5,1815.0,Cash,Cancelled
+1139,Hassan Sheikh,Not provided,0321-1451316,46,Lahore,Tablet,2026-01-16,1,333.43,333.43,Credit Card,Cancelled
+1140,Unknown,nida.raza69@outlook.com,0321-3524102,64,Lahore,Tablet,2026-09-20,4,454.78,1819.0,Easypaisa,Pending
+1141,Hina Noor,hina.noor43@hotmail.com,0312-1678477,22,Lahore,Mouse,2026-09-06,3,41.59,125.0,Cash,Completed
+1142,Talha Aslam,talha.aslam58@hotmail.com,0315-9255517,59,Islamabad,Tablet,2026-03-13,4,513.46,2053.84,Bank Transfer,Completed
+1143,Laiba Tariq,laiba.tariq99@outlook.com,0321-2246154,50,Faisalabad,Laptop,,2,1294.71,2589.42,Easypaisa,Cancelled
+1144,Bilal Chaudhry,Not provided,0333-6511121,47,Rawalpindi,Phone,2026-06-15,4,366.44,1466.0,Easypaisa,Pending
+1145,Talha Javed,talha.javed62@outlook.com,Not provided,46,Faisalabad,Keyboard,2026-09-21,2,28.04,56.0,Credit Card,Cancelled
+1146,Imran Malik,imran.malik81@outlook.com,Not provided,21,Lahore,Mouse,2026-09-22,3,17.67,53.01,Easypaisa,Returned
+1147,Hassan Farooq,hassan.farooq44@mail.com,0301-3855635,26,Karachi,Laptop,2026-09-25,2,851.62,1703.24,Cash on Delivery,Cancelled
+1148,Hina Noor,hina.noor67@mail.com,0300-8888846,48,Faisalabad,Monitor,2026-06-29,2,417.53,835.06,Bank Transfer,Shipped
+1149,Bilal Iqbal,bilal.iqbal27@hotmail.com,0301-2596753,55,Lahore,Monitor,2026-08-05,4,372.73,1490.92,Easypaisa,Pending
+1150,Sana Javed,sana.javed21@gmail.com,0345-5678044,57,Karachi,Headphones,2026-01-27,1,120.36,120.0,Credit Card,Completed
+1151,Iqra Bhatti,iqra.bhatti64@mail.com,Not provided,51,Islamabad,Monitor,2026-09-19,1,149.09,149.0,Credit Card,Shipped
+1152,Maria Khan,maria.khan45@hotmail.com,0321-3796608,30,Lahore,Phone,2026-01-03,1,306.45,306.45,Credit Card,Cancelled
+1153,Nida Butt,nida.butt76@gmail.com,0321-1133372,32,Karachi,Laptop,2026-06-11,4,1262.06,5048.24,JazzCash,Unknown
+1154,Hassan Iqbal,hassan.iqbal25@mail.com,0312-4061034,31,Faisalabad,Phone,2026-07-02,1,436.74,436.74,Credit Card,Returned
+1155,Iqra Bhatti,iqra.bhatti51@yahoo.com,0302-0908455,45,Islamabad,Laptop,2026-09-15,1,1234.97,1235.0,Credit Card,Completed
+1156,Imran Qureshi,imran.qureshi24@mail.com,0345-6246319,43,Islamabad,Monitor,2026-03-09,1,224.16,224.16,Credit Card,Pending
+1157,Mehwish Siddiqui,mehwish.siddiqui72@outlook.com,Not provided,28,Faisalabad,Headphones,2026-09-01,1,88.56,88.56,Bank Transfer,Shipped
+1158,Fatima Javed,fatima.javed66@mail.com,0315-1315459,36,Faisalabad,Keyboard,2026-03-27,1,84.89,85.0,Cash on Delivery,Cancelled
+1159,Ahmed Tariq,ahmed.tariq3@yahoo.com,0321-1343263,43,Islamabad,Laptop,2026-08-31,1,813.4,813.4,Unknown,Completed
+1160,Hina Iqbal,hina.iqbal61@mail.com,0344-4570355,26,Karachi,Keyboard,2026-04-01,2,26.65,53.3,Bank Transfer,Cancelled
+1161,Unknown,sana.qureshi18@hotmail.com,0344-0139537,49,Islamabad,Mouse,,1,34.86,34.86,Cash,Completed
+1162,Mehwish Zahra,mehwish.zahra89@hotmail.com,0344-4510085,22,Rawalpindi,Phone,2026-02-26,2,517.63,1035.26,Cash,Cancelled
+1163,Zain Butt,zain.butt54@hotmail.com,0315-6231009,20,Unknown,Laptop,2026-01-29,5,806.5,4032.5,JazzCash,Pending
+1164,Junaid Iqbal,junaid.iqbal27@mail.com,0321-5420100,64,Karachi,Headphones,2026-09-24,1,88.68,89.0,Cash,Completed
+1165,Amna Ali,amna.ali12@yahoo.com,0301-5677780,58,Faisalabad,Laptop,2026-03-20,1,865.18,865.18,Credit Card,Shipped
+1166,Mehwish Zahra,mehwish.zahra70@hotmail.com,0315-4619177,56,Faisalabad,Headphones,2026-03-24,1,180.52,180.52,Cash,Cancelled
+1167,Fatima Chaudhry,fatima.chaudhry88@mail.com,0302-4750117,59,Lahore,Laptop,2026-09-25,1,1243.14,1243.14,Unknown,Completed
+1168,Amna Ahmed,Not provided,0315-1341452,58,Lahore,Phone,2026-07-08,1,319.59,320.0,Easypaisa,Completed
+1169,Laiba Tariq,laiba.tariq54@gmail.com,0333-7696054,45,Karachi,Headphones,2026-04-03,4,74.7,299.0,Easypaisa,Cancelled
+1170,Omar Zahra,omar.zahra47@mail.com,0345-0003282,36,Faisalabad,Tablet,2026-03-11,5,397.54,1987.7,Cash,Pending
+1171,Amna Butt,amna.butt32@yahoo.com,0321-1541912,54,Rawalpindi,Laptop,2026-06-16,4,1240.07,4960.0,Bank Transfer,Completed
+1172,Rabia Farooq,rabia.farooq82@mail.com,Not provided,38,Lahore,Laptop,2026-06-17,2,1211.55,2423.1,Credit Card,Shipped
+1173,Omar Bhatti,omar.bhatti17@yahoo.com,0312-8184951,54,Rawalpindi,Keyboard,2026-09-26,1,52.85,52.85,Cash on Delivery,Cancelled
+1174,Usman Malik,usman.malik88@hotmail.com,0301-1885284,33,Rawalpindi,Mouse,,1,25.37,25.37,Credit Card,Cancelled
+1175,Ali Butt,Not provided,0321-3367121,57,Lahore,Phone,2026-01-05,1,731.01,731.01,Easypaisa,Returned
+1176,Fatima Malik,fatima.malik72@gmail.com,Not provided,37,Faisalabad,Laptop,,3,904.75,2714.25,Cash on Delivery,Pending
+1177,Faisal Iqbal,faisal.iqbal87@outlook.com,0312-7001691,27,Islamabad,Headphones,2026-06-18,1,31.16,31.0,Easypaisa,Cancelled
+1178,Noor Ali,noor.ali16@yahoo.com,0302-0494648,44,Faisalabad,Headphones,2026-08-15,2,44.86,90.0,Easypaisa,Pending
+1179,Bilal Ali,bilal.ali78@mail.com,0333-3086613,49,Lahore,Laptop,2026-04-09,1,792.08,792.08,Credit Card,Shipped
+1180,Maria Ali,maria.ali93@hotmail.com,0344-8811906,63,Rawalpindi,Headphones,2026-02-25,1,56.82,56.82,Credit Card,Pending
+1181,Faisal Javed,faisal.javed89@outlook.com,0315-7578236,50,Islamabad,Monitor,2026-03-11,1,444.66,444.66,Credit Card,Cancelled
+1182,Junaid Ali,junaid.ali66@outlook.com,0345-9233271,28,Islamabad,Monitor,2026-03-18,1,149.76,149.76,Bank Transfer,Pending
+1183,Nida Chaudhry,nida.chaudhry85@mail.com,0315-1332193,18,Faisalabad,Tablet,2026-05-23,1,431.9,431.9,Cash,Completed
+1184,Sara Zahra,sara.zahra74@outlook.com,0315-9713442,20,Karachi,Laptop,2026-06-15,1,801.76,801.76,Credit Card,Cancelled
+1185,Usman Farooq,usman.farooq91@hotmail.com,0333-4356372,57,Faisalabad,Monitor,2026-09-12,2,164.4,328.8,JazzCash,Cancelled
+1186,Maria Farooq,Not provided,0321-4268417,37,Islamabad,Phone,2026-01-04,1,251.03,251.03,Cash on Delivery,Cancelled
+1187,Ali Noor,ali.noor8@outlook.com,0333-9314327,31,Faisalabad,Phone,2026-07-01,1,464.83,464.83,Credit Card,Shipped
+1188,Danish Javed,danish.javed39@yahoo.com,0302-1882928,20,Islamabad,Headphones,2026-08-16,2,49.87,99.74,JazzCash,Shipped
+1189,Komal Mirza,komal.mirza15@gmail.com,0300-9970491,39,Karachi,Mouse,2026-02-22,1,44.7,45.0,Cash,Unknown
+1190,Unknown,saad.farooq66@gmail.com,0333-9216826,27,Islamabad,Mouse,2026-05-06,1,45.47,45.47,Cash on Delivery,Completed
+1191,Bilal Khan,bilal.khan86@outlook.com,Not provided,62,Rawalpindi,Monitor,2026-06-08,1,418.09,418.09,JazzCash,Pending
+1192,Bilal Bhatti,bilal.bhatti22@hotmail.com,0302-8521981,63,Unknown,Tablet,2026-02-06,1,560.79,561.0,Cash on Delivery,Pending
+1193,Rabia Sheikh,rabia.sheikh95@outlook.com,0301-9934848,38,Islamabad,Keyboard,2026-04-01,1,26.93,26.93,Easypaisa,Cancelled
+1194,Saad Hussain,saad.hussain50@outlook.com,0312-3450430,38,Unknown,Tablet,2026-06-05,2,372.43,745.0,Bank Transfer,Shipped
+1195,Usman Aslam,Not provided,0345-5337290,43,Unknown,Laptop,2026-03-30,1,1128.04,1128.0,Cash on Delivery,Shipped
+1196,Hassan Siddiqui,hassan.siddiqui59@outlook.com,0302-7623472,53,Rawalpindi,Phone,2026-07-01,3,437.51,1312.53,Credit Card,Pending
+1197,Imran Qureshi,imran.qureshi97@hotmail.com,0301-8780469,23,Lahore,Tablet,2026-02-09,1,334.88,334.88,Easypaisa,Completed
+1198,Junaid Butt,junaid.butt94@outlook.com,0315-9699597,21,Islamabad,Keyboard,2026-01-14,1,73.39,73.39,JazzCash,Pending
+1199,Hamza Raza,hamza.raza68@gmail.com,0301-2433874,27,Karachi,Keyboard,2026-07-16,3,36.07,108.0,Easypaisa,Cancelled
+1200,Laiba Zahra,laiba.zahra19@outlook.com,0300-4845129,46,Faisalabad,Laptop,2026-01-22,2,1149.58,2299.16,Cash on Delivery,Shipped
+1201,Rabia Iqbal,rabia.iqbal71@gmail.com,0301-0200679,51,Karachi,Tablet,2026-06-29,3,271.65,814.95,Cash,Cancelled
+1202,Usman Ahmed,usman.ahmed60@gmail.com,0321-7163592,60,Faisalabad,Keyboard,2026-05-12,3,64.25,192.75,Credit Card,Shipped
+1203,Sara Iqbal,sara.iqbal34@gmail.com,Not provided,44,Rawalpindi,Headphones,2026-09-12,1,67.64,67.64,Credit Card,Pending
+1204,Unknown,bilal.butt62@gmail.com,0333-5594190,43,Faisalabad,Monitor,2026-02-16,1,309.63,309.63,Cash on Delivery,Cancelled
+1205,Saad Farooq,saad.farooq5@yahoo.com,Not provided,33,Rawalpindi,Mouse,2026-06-07,2,16.53,33.06,JazzCash,Completed
+1206,Sara Butt,Not provided,0300-7905753,57,Faisalabad,Laptop,2026-01-08,2,936.4,1873.0,Unknown,Completed
+1207,Omar Bhatti,omar.bhatti18@hotmail.com,0312-0764815,39,Islamabad,Phone,2026-03-14,1,792.98,792.98,Cash on Delivery,Cancelled
+1208,Maria Aslam,maria.aslam37@mail.com,0315-2128901,58,Unknown,Laptop,2026-07-30,2,793.36,1587.0,Bank Transfer,Completed
+1209,Imran Mirza,imran.mirza29@mail.com,0312-4637668,44,Lahore,Keyboard,2026-08-31,2,86.27,172.54,Credit Card,Shipped
+1210,Nida Ali,nida.ali57@outlook.com,0345-3334495,38,Lahore,Monitor,2026-06-16,2,202.96,405.92,Cash on Delivery,Shipped
+1211,Junaid Sheikh,junaid.sheikh5@outlook.com,Not provided,47,Karachi,Laptop,2026-06-25,1,1029.69,1030.0,Credit Card,Returned
+1212,Rabia Noor,rabia.noor42@mail.com,0302-9625101,44,Islamabad,Keyboard,2026-08-29,3,87.76,263.0,Cash on Delivery,Cancelled
+1213,Zara Malik,zara.malik74@outlook.com,Not provided,26,Lahore,Monitor,2026-04-05,1,283.44,283.44,JazzCash,Completed
+1214,Amna Tariq,Not provided,0301-6424918,57,Lahore,Monitor,2026-03-31,1,414.83,415.0,JazzCash,Pending
+1215,Bilal Butt,bilal.butt7@gmail.com,0315-8157533,25,Islamabad,Phone,2026-08-20,2,600.76,1201.52,Bank Transfer,Completed
+1216,Zain Chaudhry,zain.chaudhry88@outlook.com,0315-5816664,65,Karachi,Laptop,2026-04-07,3,756.12,2268.36,Cash,Cancelled
+1217,Danish Butt,danish.butt30@mail.com,0321-0793880,36,Faisalabad,Monitor,2026-03-24,2,310.97,622.0,Credit Card,Returned
+1218,Zara Raza,zara.raza70@yahoo.com,0301-0418175,49,Unknown,Phone,2026-06-13,1,404.64,404.64,JazzCash,Shipped
+1219,Danish Farooq,danish.farooq71@gmail.com,0345-3697107,23,Islamabad,Monitor,2026-04-10,5,415.67,2078.35,Cash,Completed
+1220,Mehwish Chaudhry,mehwish.chaudhry48@gmail.com,0333-5168814,53,Islamabad,Mouse,2026-08-16,1,36.21,36.21,JazzCash,Shipped
+1221,Laiba Siddiqui,laiba.siddiqui54@yahoo.com,0302-3342987,42,Faisalabad,Phone,2026-01-22,2,793.08,1586.0,Easypaisa,Cancelled
+1222,Laiba Chaudhry,laiba.chaudhry16@hotmail.com,0301-6069317,54,Rawalpindi,Phone,2026-09-01,1,267.45,267.0,Cash on Delivery,Cancelled
+1223,Ali Iqbal,ali.iqbal66@yahoo.com,0302-1585592,28,Islamabad,Phone,2026-06-04,1,628.08,628.08,Cash on Delivery,Cancelled
+1224,Fatima Raza,fatima.raza69@outlook.com,0301-7001908,22,Karachi,Laptop,2026-01-09,1,795.86,795.86,Cash on Delivery,Cancelled
+1225,Junaid Bhatti,junaid.bhatti11@mail.com,0301-1304181,44,Karachi,Keyboard,2026-01-22,1,72.27,72.27,Unknown,Cancelled
+1226,Sara Mirza,Not provided,0333-5908990,50,Faisalabad,Laptop,2026-09-16,1,1335.97,1335.97,Easypaisa,Cancelled
+1227,Zain Ali,zain.ali46@mail.com,0344-3817726,38,Faisalabad,Tablet,2026-09-24,2,227.3,455.0,Bank Transfer,Completed
+1228,Usman Butt,usman.butt87@hotmail.com,0315-1764491,51,Rawalpindi,Monitor,2026-03-03,1,158.19,158.19,Easypaisa,Completed
+1229,Usman Zahra,usman.zahra52@hotmail.com,0345-8129112,27,Faisalabad,Phone,2026-03-04,2,470.11,940.22,Easypaisa,Completed
+1230,Hina Ahmed,hina.ahmed26@hotmail.com,0315-8469050,39,Lahore,Headphones,2026-01-10,2,32.28,64.56,Unknown,Completed
+1231,Ahmed Chaudhry,ahmed.chaudhry73@mail.com,0344-9600094,53,Rawalpindi,Tablet,2026-01-29,1,533.79,533.79,Cash on Delivery,Shipped
+1232,Saad Farooq,saad.farooq8@yahoo.com,0321-9941031,44,Rawalpindi,Tablet,2026-02-28,2,177.64,355.0,Unknown,Cancelled
+1233,Noor Siddiqui,noor.siddiqui65@hotmail.com,0321-6095738,30,Lahore,Keyboard,2026-04-20,1,53.61,53.61,Unknown,Shipped
+1234,Zara Sheikh,zara.sheikh39@mail.com,0333-3356734,34,Karachi,Keyboard,2026-04-03,1,70.72,70.72,JazzCash,Cancelled
+1235,Iqra Ali,iqra.ali19@yahoo.com,0321-7304611,22,Faisalabad,Mouse,2026-05-17,2,48.41,96.82,Cash,Pending
+1236,Ahmed Sheikh,ahmed.sheikh36@outlook.com,0300-8151075,21,Karachi,Laptop,2026-06-10,1,804.97,805.0,Cash on Delivery,Returned
+1237,Noor Tariq,noor.tariq99@hotmail.com,0345-3958384,31,Faisalabad,Monitor,2026-04-20,2,431.24,862.0,Cash,Completed
+1238,Iqra Javed,iqra.javed78@gmail.com,0300-4021093,42,Rawalpindi,Tablet,2026-07-05,1,464.83,464.83,JazzCash,Cancelled
+1239,Ahmed Khan,ahmed.khan5@hotmail.com,0315-7903600,39,Rawalpindi,Monitor,2026-03-24,4,426.08,1704.32,Cash on Delivery,Cancelled
+1240,Laiba Butt,laiba.butt92@yahoo.com,0345-5358628,65,Islamabad,Monitor,2026-06-17,2,349.42,698.84,Cash on Delivery,Shipped
+1241,Junaid Hussain,junaid.hussain55@outlook.com,0301-6172675,54,Karachi,Headphones,2026-09-27,1,179.18,179.18,JazzCash,Cancelled
+1242,Hina Sheikh,hina.sheikh19@gmail.com,0321-3950793,33,Karachi,Mouse,2026-08-23,4,16.53,66.12,Cash on Delivery,Shipped
+1243,Noor Ali,noor.ali96@gmail.com,Not provided,42,Islamabad,Mouse,2026-07-09,1,24.11,24.11,Credit Card,Pending
+1244,Ayesha Qureshi,ayesha.qureshi56@hotmail.com,0321-4425123,45,Karachi,Monitor,2026-09-09,3,427.01,1281.03,Easypaisa,Cancelled
+1245,Sara Ali,sara.ali15@yahoo.com,0301-3418084,29,Rawalpindi,Phone,2026-04-19,1,285.47,285.47,JazzCash,Completed
+1246,Sana Tariq,Not provided,0321-9969093,39,Faisalabad,Phone,2026-06-16,2,749.36,1498.72,Easypaisa,Completed
+1247,Unknown,zara.farooq50@mail.com,0302-2023365,45,Rawalpindi,Tablet,2026-03-09,2,509.17,1018.34,Cash on Delivery,Cancelled
+1248,Omar Hussain,omar.hussain92@yahoo.com,0344-8802632,44,Faisalabad,Monitor,2026-06-03,2,208.6,417.2,Cash,Cancelled
+1249,Sana Farooq,Not provided,0315-3012385,43,Islamabad,Keyboard,2026-06-02,1,18.58,19.0,Easypaisa,Pending
+1250,Kamran Noor,kamran.noor96@outlook.com,0321-6052024,62,Karachi,Phone,2026-02-14,2,370.31,740.62,Unknown,Completed
+1251,Imran Ali,imran.ali20@mail.com,0315-0329299,55,Rawalpindi,Headphones,,1,24.83,25.0,Bank Transfer,Shipped
+1252,Amna Mirza,amna.mirza41@outlook.com,Not provided,57,Rawalpindi,Mouse,2026-08-18,2,32.3,64.6,Unknown,Pending
+1253,Iqra Zahra,iqra.zahra95@hotmail.com,0302-3476383,65,Islamabad,Monitor,2026-03-08,1,196.59,196.59,JazzCash,Shipped
+1254,Iqra Farooq,iqra.farooq72@yahoo.com,0333-5959954,53,Lahore,Phone,2026-09-21,1,386.13,386.13,Credit Card,Cancelled
+1255,Zara Chaudhry,zara.chaudhry94@hotmail.com,0344-8361613,24,Karachi,Headphones,2026-06-21,5,156.04,780.2,Cash,Shipped
+1256,Saad Khan,saad.khan18@mail.com,0345-7696599,51,Karachi,Phone,2026-01-16,1,792.63,792.63,Bank Transfer,Completed
+1257,Usman Butt,usman.butt39@hotmail.com,0300-4693941,57,Faisalabad,Tablet,2026-07-26,2,330.74,661.0,JazzCash,Cancelled
+1258,Danish Chaudhry,Not provided,0302-0392951,44,Karachi,Mouse,2026-05-13,3,22.5,67.5,Bank Transfer,Cancelled
+1259,Hina Ahmed,hina.ahmed73@outlook.com,0312-5877681,60,Rawalpindi,Headphones,2026-03-13,2,87.14,174.28,Cash,Cancelled
+1260,Talha Ali,talha.ali72@outlook.com,0321-9802990,45,Karachi,Headphones,2026-09-08,1,160.14,160.14,Credit Card,Completed
+1261,Iqra Chaudhry,iqra.chaudhry38@gmail.com,0301-6232188,41,Lahore,Phone,2026-01-15,1,879.22,879.22,Easypaisa,Pending
+1262,Junaid Farooq,junaid.farooq78@yahoo.com,0344-7733225,60,Rawalpindi,Phone,2026-02-15,2,369.0,738.0,Cash on Delivery,Shipped
+1263,Kamran Javed,Not provided,0300-9567113,48,Islamabad,Laptop,2026-03-03,3,1370.66,4111.98,Credit Card,Pending
+1264,Maria Aslam,Not provided,0302-3064676,23,Lahore,Monitor,,1,147.93,148.0,Bank Transfer,Shipped
+1265,Hina Butt,hina.butt71@mail.com,Not provided,19,Rawalpindi,Phone,2026-05-07,1,518.33,518.33,Credit Card,Shipped
+1266,Omar Tariq,omar.tariq80@hotmail.com,0302-0009108,44,Faisalabad,Headphones,2026-07-14,1,134.44,134.44,Cash,Cancelled
+1267,Nida Ahmed,nida.ahmed88@hotmail.com,0315-4580400,38,Rawalpindi,Phone,,2,730.47,1460.94,Easypaisa,Cancelled
+1268,Iqra Khan,iqra.khan87@gmail.com,0345-6005668,62,Lahore,Laptop,2026-08-25,1,1170.89,1171.0,Credit Card,Completed
+1269,Saad Iqbal,saad.iqbal27@gmail.com,0345-1861373,54,Islamabad,Mouse,2026-04-10,1,46.7,46.7,Easypaisa,Completed
+1270,Usman Aslam,usman.aslam59@gmail.com,0300-5419028,44,Lahore,Phone,2026-09-11,1,734.88,734.88,Bank Transfer,Pending
+1271,Komal Siddiqui,komal.siddiqui9@gmail.com,Not provided,19,Rawalpindi,Keyboard,2026-06-21,1,48.66,48.66,JazzCash,Shipped
+1272,Hassan Ahmed,hassan.ahmed89@gmail.com,0300-7414160,44,Lahore,Headphones,2026-02-03,2,80.05,160.1,Credit Card,Shipped
+1273,Ahmed Malik,ahmed.malik59@outlook.com,0312-1812049,56,Faisalabad,Keyboard,2026-04-10,1,71.4,71.4,JazzCash,Shipped
+1274,Iqra Bhatti,iqra.bhatti48@gmail.com,0302-0961630,53,Faisalabad,Monitor,2026-06-26,1,181.35,181.0,Cash,Shipped
+1275,Zain Mirza,zain.mirza1@yahoo.com,0315-3575870,65,Lahore,Mouse,2026-07-12,1,37.06,37.06,Credit Card,Completed
+1276,Fatima Khan,fatima.khan71@yahoo.com,0300-2954088,24,Karachi,Keyboard,2026-03-12,1,23.64,23.64,Credit Card,Pending
+1277,Nida Chaudhry,nida.chaudhry69@mail.com,0333-7206488,33,Lahore,Phone,2026-05-31,1,490.27,490.27,Credit Card,Pending
+1278,Amna Raza,amna.raza48@outlook.com,0315-7948342,43,Rawalpindi,Headphones,2026-01-19,2,111.49,222.98,JazzCash,Shipped
+1279,Zain Farooq,zain.farooq55@mail.com,0345-6165827,38,Islamabad,Monitor,2026-04-02,2,413.27,826.54,Credit Card,Completed
+1280,Nida Qureshi,nida.qureshi36@yahoo.com,0302-9112136,18,Islamabad,Keyboard,2026-06-27,1,56.0,56.0,Cash on Delivery,Returned
+1281,Ali Mirza,ali.mirza41@yahoo.com,0345-3516248,53,Faisalabad,Mouse,2026-03-07,2,29.53,59.06,JazzCash,Shipped
+1282,Kamran Sheikh,kamran.sheikh73@outlook.com,0345-6397463,43,Unknown,Monitor,2026-04-07,2,260.49,521.0,JazzCash,Pending
+1283,Usman Noor,usman.noor48@outlook.com,Not provided,44,Karachi,Laptop,2026-03-08,1,1172.42,1172.42,Credit Card,Pending
+1284,Unknown,bilal.ali9@mail.com,0312-8822408,54,Islamabad,Tablet,2026-08-25,2,344.49,689.0,Cash,Cancelled
+1285,Fatima Farooq,fatima.farooq31@yahoo.com,0344-4897094,22,Karachi,Monitor,2026-04-22,3,322.3,966.9,JazzCash,Shipped
+1286,Usman Malik,usman.malik5@gmail.com,0302-5488001,47,Rawalpindi,Keyboard,2026-02-12,1,72.49,72.0,JazzCash,Pending
+1287,Hassan Noor,hassan.noor92@gmail.com,0344-3626672,21,Unknown,Phone,2026-07-19,2,795.02,1590.04,Easypaisa,Unknown
+1288,Saad Hussain,saad.hussain86@yahoo.com,0300-6973953,38,Lahore,Headphones,2026-04-08,1,56.31,56.31,Cash on Delivery,Completed
+1289,Maria Ali,maria.ali99@outlook.com,0301-8995633,54,Faisalabad,Laptop,2026-06-16,1,949.6,950.0,Easypaisa,Completed
+1290,Kamran Noor,kamran.noor2@yahoo.com,Not provided,25,Faisalabad,Mouse,2026-08-08,2,39.99,79.98,Credit Card,Cancelled
+1291,Nida Ali,nida.ali37@gmail.com,0333-5750028,52,Islamabad,Phone,2026-04-24,2,494.24,988.48,Cash on Delivery,Returned
+1292,Ali Tariq,ali.tariq22@yahoo.com,0302-4177013,54,Karachi,Headphones,2026-04-14,4,108.5,434.0,Credit Card,Shipped
+1293,Ahmed Hussain,ahmed.hussain20@outlook.com,0321-6382895,47,Rawalpindi,Phone,2026-02-06,1,555.96,556.0,Cash,Pending
+1294,Ali Khan,ali.khan50@outlook.com,0345-4282525,64,Faisalabad,Headphones,2026-09-08,2,110.13,220.0,Credit Card,Shipped
+1295,Laiba Sheikh,laiba.sheikh21@gmail.com,0301-6448284,55,Karachi,Phone,2026-09-23,4,560.52,2242.08,Credit Card,Pending
+1296,Imran Farooq,imran.farooq96@mail.com,0300-2825261,18,Faisalabad,Keyboard,2026-08-02,2,87.58,175.0,Bank Transfer,Completed
+1297,Fatima Noor,fatima.noor80@gmail.com,0302-1338986,42,Karachi,Mouse,,1,13.64,13.64,JazzCash,Completed
+1298,Ali Ahmed,ali.ahmed48@hotmail.com,0312-6060108,42,Islamabad,Tablet,2026-06-19,1,488.31,488.31,Unknown,Shipped
+1299,Laiba Raza,laiba.raza42@gmail.com,0300-5461406,32,Rawalpindi,Laptop,2026-02-11,3,1121.34,3364.02,JazzCash,Completed
+1300,Laiba Hussain,laiba.hussain60@yahoo.com,0301-8089445,33,Lahore,Tablet,2026-02-15,2,423.23,846.46,Credit Card,Shipped
+1301,Junaid Hussain,junaid.hussain74@outlook.com,Not provided,65,Rawalpindi,Headphones,2026-08-12,2,70.46,140.92,Credit Card,Completed
+1302,Usman Butt,usman.butt55@hotmail.com,0302-8719981,55,Islamabad,Mouse,2026-01-05,1,32.87,32.87,Credit Card,Pending
+1303,Hassan Sheikh,hassan.sheikh62@yahoo.com,0345-0986711,39,Faisalabad,Monitor,2026-04-18,1,344.39,344.39,Cash,Completed
+1304,Komal Noor,komal.noor37@hotmail.com,0312-9194082,26,Rawalpindi,Headphones,2026-01-28,1,107.75,108.0,JazzCash,Cancelled
+1305,Bilal Chaudhry,bilal.chaudhry55@yahoo.com,0301-5965707,29,Lahore,Mouse,2026-09-21,3,28.26,84.78,Credit Card,Shipped
+1306,Maria Ahmed,maria.ahmed84@mail.com,0301-1956687,44,Lahore,Laptop,2026-01-12,1,868.6,868.6,JazzCash,Completed
+1307,Zara Aslam,zara.aslam69@outlook.com,0344-9809999,59,Faisalabad,Phone,2026-03-02,5,499.57,2497.85,Credit Card,Unknown
+1308,Omar Butt,omar.butt85@gmail.com,0300-8714808,36,Islamabad,Laptop,2026-03-13,2,727.4,1454.8,JazzCash,Shipped
+1309,Rabia Javed,rabia.javed80@mail.com,Not provided,28,Faisalabad,Keyboard,2026-05-11,1,30.74,30.74,Credit Card,Completed
+1310,Unknown,danish.iqbal10@hotmail.com,0301-9200101,39,Rawalpindi,Mouse,2026-06-20,1,37.27,37.27,Cash,Completed
+1311,Ahmed Sheikh,ahmed.sheikh7@yahoo.com,0345-3031181,65,Islamabad,Monitor,2026-07-26,2,434.09,868.0,Credit Card,Completed
+1312,Noor Raza,noor.raza37@hotmail.com,0344-3838024,23,Rawalpindi,Phone,2026-06-10,2,496.22,992.44,Credit Card,Completed
+1313,Ayesha Aslam,ayesha.aslam69@gmail.com,0312-0122310,62,Karachi,Laptop,2026-05-06,1,759.21,759.0,JazzCash,Completed
+1314,Rabia Chaudhry,Not provided,0301-4866478,36,Rawalpindi,Phone,2026-07-21,3,688.44,2065.32,Easypaisa,Completed
+1315,Unknown,komal.chaudhry26@gmail.com,0302-6890722,49,Rawalpindi,Unknown,2026-05-09,1,78.63,78.63,Cash,Completed
+1316,Mehwish Iqbal,mehwish.iqbal43@gmail.com,0312-8041235,35,Lahore,Laptop,2026-09-11,2,1392.56,2785.12,Cash on Delivery,Shipped
+1317,Faisal Hussain,faisal.hussain38@hotmail.com,0345-4156509,64,Islamabad,Phone,2026-05-24,1,321.33,321.33,Bank Transfer,Shipped
+1318,Zain Mirza,zain.mirza19@mail.com,Not provided,21,Lahore,Mouse,2026-06-06,1,40.87,41.0,Cash,Cancelled
+1319,Sara Qureshi,sara.qureshi61@hotmail.com,0301-7229428,49,Lahore,Monitor,2026-02-27,1,332.48,332.48,Unknown,Completed
+1320,Kamran Zahra,Not provided,0312-3236786,24,Lahore,Mouse,2026-06-25,2,42.02,84.04,Cash,Completed
+1321,Sara Raza,sara.raza65@gmail.com,0321-2163157,54,Lahore,Phone,2026-07-23,2,521.84,1044.0,JazzCash,Completed
+1322,Omar Qureshi,omar.qureshi93@outlook.com,0312-4972157,53,Unknown,Monitor,2026-01-24,1,306.0,306.0,Easypaisa,Pending
+1323,Komal Raza,komal.raza93@yahoo.com,0321-5446473,58,Islamabad,Tablet,2026-04-23,1,543.02,543.02,Cash,Cancelled
+1324,Noor Aslam,noor.aslam51@yahoo.com,0345-6184753,48,Islamabad,Laptop,2026-08-24,2,1205.82,2411.64,Cash,Completed
+1325,Danish Farooq,danish.farooq2@outlook.com,Not provided,18,Rawalpindi,Laptop,2026-03-09,3,917.11,2751.33,Credit Card,Cancelled
+1326,Ali Khan,Not provided,0301-0355809,24,Karachi,Headphones,2026-09-19,2,39.14,78.0,Credit Card,Completed
+1327,Maria Siddiqui,maria.siddiqui10@outlook.com,0333-1422780,56,Karachi,Monitor,2026-06-21,2,168.63,337.0,Credit Card,Returned
+1328,Nida Bhatti,nida.bhatti58@mail.com,0301-9694594,64,Lahore,Headphones,2026-06-15,3,71.66,214.98,Cash on Delivery,Cancelled
+1329,Sana Mirza,sana.mirza11@outlook.com,0344-9695157,65,Faisalabad,Mouse,2026-05-01,2,48.86,98.0,Credit Card,Cancelled
+1330,Bilal Malik,bilal.malik16@yahoo.com,0300-7125430,62,Rawalpindi,Laptop,2026-09-02,1,1337.95,1338.0,Credit Card,Completed
+1331,Usman Sheikh,usman.sheikh2@hotmail.com,0300-0538869,29,Rawalpindi,Laptop,2026-07-22,3,708.73,2126.19,JazzCash,Pending
+1332,Komal Aslam,komal.aslam72@outlook.com,0315-8009715,59,Rawalpindi,Keyboard,,1,37.95,37.95,Cash,Completed
+1333,Usman Zahra,usman.zahra11@outlook.com,0315-0766393,44,Karachi,Keyboard,2026-01-05,1,73.41,73.41,Cash on Delivery,Shipped
+1334,Saad Hussain,saad.hussain5@hotmail.com,0315-1321253,23,Lahore,Mouse,2026-04-21,1,22.95,23.0,Bank Transfer,Cancelled
+1335,Faisal Bhatti,Not provided,0315-1634202,27,Rawalpindi,Mouse,2026-02-14,2,29.98,59.96,Credit Card,Completed
+1336,Usman Iqbal,usman.iqbal37@mail.com,0302-7395861,57,Karachi,Keyboard,2026-02-12,1,42.25,42.0,Cash,Returned
+1337,Sara Bhatti,Not provided,0315-1830713,44,Lahore,Mouse,2026-08-10,2,10.4,20.8,Cash on Delivery,Cancelled
+1338,Iqra Ali,iqra.ali61@yahoo.com,Not provided,61,Faisalabad,Mouse,2026-04-01,1,39.13,39.13,Cash on Delivery,Cancelled
+1339,Amna Siddiqui,amna.siddiqui21@mail.com,0345-0166623,56,Karachi,Keyboard,2026-03-16,3,31.06,93.18,Bank Transfer,Shipped
+1340,Ali Raza,Not provided,0344-2786712,31,Karachi,Monitor,2026-01-08,1,428.16,428.16,Cash,Cancelled
+1341,Hassan Malik,hassan.malik70@mail.com,0345-4752118,24,Karachi,Mouse,2026-02-15,5,28.96,144.8,Cash on Delivery,Cancelled
+1342,Komal Javed,komal.javed60@mail.com,0345-0127592,32,Lahore,Laptop,2026-05-16,1,1143.47,1143.47,Cash on Delivery,Completed
+1343,Junaid Siddiqui,junaid.siddiqui51@gmail.com,0345-2162087,42,Rawalpindi,Laptop,2026-07-26,1,710.87,711.0,Cash on Delivery,Completed
+1344,Unknown,faisal.malik20@gmail.com,0344-1321583,19,Lahore,Mouse,2026-08-21,1,32.23,32.23,Credit Card,Pending
+1345,Nida Ali,Not provided,0321-4395541,23,Lahore,Keyboard,2026-04-17,2,78.03,156.06,Credit Card,Cancelled
+1346,Danish Tariq,danish.tariq45@mail.com,0344-0084130,65,Faisalabad,Phone,2026-04-09,1,696.77,696.77,JazzCash,Completed
+1347,Zain Zahra,zain.zahra64@mail.com,0345-3238912,30,Lahore,Laptop,2026-07-21,1,1329.0,1329.0,Easypaisa,Pending
+1348,Laiba Mirza,laiba.mirza33@outlook.com,0344-5909830,25,Islamabad,Monitor,2026-08-08,1,411.34,411.34,Credit Card,Shipped
+1349,Fatima Raza,fatima.raza72@hotmail.com,0301-9629256,44,Lahore,Headphones,2026-06-12,1,76.6,77.0,Credit Card,Cancelled
+1350,Sara Iqbal,sara.iqbal52@gmail.com,0344-0656328,19,Faisalabad,Monitor,2026-08-01,1,159.36,159.36,Cash on Delivery,Cancelled
+1351,Unknown,Not provided,Not provided,38,Faisalabad,Monitor,2026-08-12,1,322.07,322.0,Bank Transfer,Shipped
+1352,Hassan Javed,hassan.javed59@gmail.com,0302-9800080,44,Faisalabad,Laptop,2026-09-25,3,1353.88,4062.0,Easypaisa,Pending
+1353,Kamran Mirza,Not provided,0345-3152731,39,Lahore,Phone,2026-06-09,2,309.67,619.34,JazzCash,Completed
+1354,Maria Zahra,Not provided,Not provided,35,Faisalabad,Monitor,2026-08-20,3,441.77,1325.31,JazzCash,Shipped
+1355,Zain Raza,zain.raza64@outlook.com,0300-4176591,32,Islamabad,Monitor,2026-05-17,1,285.72,285.72,Cash,Cancelled
+1356,Imran Hussain,imran.hussain90@outlook.com,0321-4003370,61,Faisalabad,Monitor,2026-06-20,1,249.65,249.65,Credit Card,Shipped
+1357,Kamran Khan,Not provided,Not provided,36,Unknown,Phone,2026-03-17,3,883.34,2650.02,Bank Transfer,Cancelled
+1358,Laiba Zahra,laiba.zahra3@yahoo.com,0312-2376209,19,Faisalabad,Keyboard,2026-08-09,1,34.3,34.3,Cash,Shipped
+1359,Danish Malik,danish.malik25@gmail.com,0333-2062947,47,Islamabad,Tablet,2026-05-28,2,544.71,1089.0,Unknown,Completed
+1360,Omar Raza,Not provided,0300-0837217,40,Islamabad,Keyboard,2026-03-21,2,87.5,175.0,Credit Card,Pending
+1361,Sana Aslam,sana.aslam42@outlook.com,0312-4194647,53,Islamabad,Laptop,2026-02-13,1,903.56,903.56,JazzCash,Shipped
+1362,Unknown,zara.siddiqui99@mail.com,Not provided,55,Rawalpindi,Laptop,,1,797.03,797.0,Easypaisa,Unknown
+1363,Zara Qureshi,zara.qureshi92@gmail.com,0344-2418467,49,Islamabad,Monitor,2026-03-21,1,396.94,397.0,Credit Card,Cancelled
+1364,Imran Ali,imran.ali24@yahoo.com,0344-4366631,61,Rawalpindi,Laptop,2026-08-10,1,747.0,747.0,Unknown,Returned
+1365,Maria Noor,maria.noor55@yahoo.com,Not provided,54,Rawalpindi,Keyboard,,1,70.62,71.0,Easypaisa,Completed
+1366,Komal Zahra,komal.zahra84@outlook.com,0302-4669772,60,Faisalabad,Phone,2026-02-04,2,554.14,1108.0,Cash on Delivery,Cancelled
+1367,Noor Noor,noor.noor13@gmail.com,0315-5430103,64,Rawalpindi,Keyboard,2026-03-31,1,68.14,68.0,Cash on Delivery,Completed
+1368,Rabia Iqbal,rabia.iqbal26@hotmail.com,0321-3783204,28,Rawalpindi,Laptop,2026-02-14,2,726.19,1452.38,Easypaisa,Completed
+1369,Zara Raza,zara.raza46@hotmail.com,0344-2313134,46,Rawalpindi,Laptop,2026-02-06,1,951.69,951.69,JazzCash,Completed
+1370,Iqra Sheikh,iqra.sheikh79@outlook.com,0300-9159380,25,Karachi,Laptop,,1,1121.04,1121.04,Cash,Completed
+1371,Bilal Ali,bilal.ali10@mail.com,0301-9251380,26,Faisalabad,Keyboard,,1,76.26,76.0,Easypaisa,Cancelled
+1372,Nida Sheikh,nida.sheikh17@mail.com,0344-2311404,25,Unknown,Laptop,2026-06-30,1,1351.87,1351.87,Credit Card,Completed
+1373,Talha Khan,talha.khan41@hotmail.com,0312-4905871,43,Lahore,Phone,2026-02-09,2,518.49,1036.98,Cash,Shipped
+1374,Junaid Sheikh,junaid.sheikh80@mail.com,0312-2300684,51,Faisalabad,Monitor,2026-04-18,4,355.33,1421.0,Credit Card,Pending
+1375,Imran Chaudhry,Not provided,0315-0745169,42,Lahore,Mouse,2026-01-27,4,40.1,160.0,Unknown,Completed
+1376,Komal Bhatti,komal.bhatti14@outlook.com,0321-8971807,54,Rawalpindi,Headphones,2026-05-14,4,180.77,723.08,Bank Transfer,Pending
+1377,Bilal Khan,bilal.khan78@gmail.com,0333-4437867,46,Islamabad,Tablet,2026-01-05,4,509.82,2039.28,JazzCash,Cancelled
+1378,Zain Siddiqui,zain.siddiqui80@gmail.com,0300-3091294,46,Islamabad,Laptop,2026-04-27,1,1105.7,1105.7,Cash,Completed
+1379,Noor Zahra,noor.zahra4@hotmail.com,0333-5620128,59,Islamabad,Keyboard,2026-01-16,2,68.87,138.0,Unknown,Cancelled
+1380,Ali Malik,ali.malik84@gmail.com,0312-9485877,54,Faisalabad,Keyboard,2026-08-03,1,30.86,30.86,JazzCash,Cancelled
+1381,Iqra Qureshi,iqra.qureshi94@mail.com,0333-9402910,41,Rawalpindi,Keyboard,2026-04-28,1,48.08,48.08,Easypaisa,Completed
+1382,Komal Javed,komal.javed24@mail.com,Not provided,34,Rawalpindi,Phone,2026-02-21,1,754.69,754.69,Unknown,Completed
+1383,Usman Raza,usman.raza10@hotmail.com,0345-7545615,45,Islamabad,Keyboard,2026-03-10,4,80.02,320.0,Easypaisa,Cancelled
+1384,Usman Raza,usman.raza68@outlook.com,0345-4785821,38,Lahore,Laptop,2026-01-22,1,1115.49,1115.0,Bank Transfer,Cancelled
+1385,Hamza Aslam,hamza.aslam19@gmail.com,0344-2832873,44,Islamabad,Keyboard,,1,38.58,38.58,Credit Card,Pending
+1386,Talha Siddiqui,talha.siddiqui86@gmail.com,0301-3731953,38,Rawalpindi,Mouse,2026-05-22,1,26.68,27.0,Easypaisa,Shipped
+1387,Junaid Ahmed,junaid.ahmed87@yahoo.com,0302-8128681,64,Lahore,Monitor,2026-04-12,2,153.14,306.28,JazzCash,Pending
+1388,Ali Siddiqui,ali.siddiqui39@yahoo.com,0315-8224559,43,Karachi,Laptop,2026-06-01,2,1043.48,2086.96,Cash,Cancelled
+1389,Kamran Sheikh,kamran.sheikh28@mail.com,Not provided,44,Rawalpindi,Mouse,2026-08-06,1,25.84,25.84,Cash,Pending
+1390,Kamran Ahmed,Not provided,0333-5917334,53,Karachi,Tablet,2026-09-23,1,351.44,351.44,Credit Card,Shipped
+1391,Amna Sheikh,amna.sheikh63@gmail.com,0321-0406752,62,Unknown,Tablet,2026-03-05,4,510.58,2042.32,Cash on Delivery,Pending
+1392,Amna Tariq,amna.tariq42@mail.com,0300-5069302,30,Faisalabad,Laptop,2026-07-12,2,751.72,1503.44,Cash on Delivery,Cancelled
+1393,Nida Javed,nida.javed14@hotmail.com,0301-1600362,31,Lahore,Keyboard,2026-05-08,1,33.35,33.0,JazzCash,Cancelled
+1394,Saad Sheikh,saad.sheikh70@mail.com,0312-5399544,48,Lahore,Laptop,2026-02-23,1,1237.19,1237.19,Credit Card,Completed
+1395,Faisal Malik,faisal.malik38@hotmail.com,0333-9459168,27,Faisalabad,Phone,2026-07-10,3,378.29,1134.87,JazzCash,Shipped
+1396,Komal Raza,komal.raza8@outlook.com,0302-1120248,53,Karachi,Phone,2026-01-08,3,590.85,1772.55,Cash on Delivery,Pending
+1397,Fatima Bhatti,fatima.bhatti99@mail.com,0321-7942448,18,Islamabad,Headphones,2026-02-16,1,92.59,92.59,Credit Card,Completed
+1398,Kamran Tariq,kamran.tariq11@outlook.com,0302-4659649,45,Rawalpindi,Laptop,2026-05-09,3,795.88,2387.64,Cash on Delivery,Completed
+1399,Ali Zahra,ali.zahra25@gmail.com,0333-1578878,34,Karachi,Headphones,,2,103.89,208.0,JazzCash,Pending
+1400,Hamza Ahmed,hamza.ahmed20@yahoo.com,0302-1389566,25,Faisalabad,Keyboard,2026-02-01,3,76.75,230.0,Cash,Pending
+1401,Danish Bhatti,danish.bhatti86@gmail.com,Not provided,23,Faisalabad,Mouse,2026-05-22,3,8.7,26.0,Cash on Delivery,Completed
+1402,Nida Iqbal,Not provided,0300-3649478,47,Lahore,Keyboard,2026-05-07,1,41.3,41.0,Cash,Completed
+1403,Nida Ahmed,nida.ahmed75@hotmail.com,0344-7544263,61,Islamabad,Monitor,2026-07-17,1,352.95,352.95,Bank Transfer,Returned
+1404,Zara Farooq,zara.farooq61@yahoo.com,0333-6245868,60,Islamabad,Phone,2026-06-15,5,472.42,2362.0,Credit Card,Cancelled
+1405,Kamran Butt,kamran.butt32@hotmail.com,0333-8095972,37,Faisalabad,Mouse,2026-09-17,1,45.93,45.93,Cash,Shipped
+1406,Talha Khan,talha.khan40@yahoo.com,0315-6643674,18,Karachi,Phone,2026-03-30,4,582.93,2331.72,Cash,Shipped
+1407,Usman Sheikh,usman.sheikh13@mail.com,0302-6708932,36,Rawalpindi,Phone,2026-07-21,3,695.06,2085.0,Easypaisa,Cancelled
+1408,Ali Sheikh,ali.sheikh12@hotmail.com,0302-7142250,37,Karachi,Keyboard,2026-01-18,1,28.0,28.0,Credit Card,Returned
+1409,Faisal Malik,faisal.malik86@mail.com,0300-5082733,65,Faisalabad,Monitor,2026-08-19,1,386.06,386.06,Bank Transfer,Cancelled
+1410,Fatima Malik,fatima.malik56@gmail.com,0300-2039294,47,Islamabad,Headphones,2026-07-09,1,52.19,52.19,Cash,Completed
+1411,Mehwish Iqbal,mehwish.iqbal19@mail.com,0321-5794620,62,Rawalpindi,Phone,2026-01-21,1,440.61,440.61,Credit Card,Returned
+1412,Zara Malik,zara.malik39@outlook.com,0312-0819251,48,Lahore,Monitor,2026-05-21,2,289.17,578.34,Cash,Completed
+1413,Rabia Hussain,Not provided,0301-4829008,56,Faisalabad,Phone,2026-06-18,1,690.84,690.84,JazzCash,Unknown
+1414,Kamran Butt,kamran.butt27@outlook.com,0321-5290495,47,Faisalabad,Tablet,2026-03-27,1,520.18,520.18,Cash on Delivery,Completed
+1415,Saad Farooq,saad.farooq95@mail.com,0333-3653282,56,Karachi,Keyboard,2026-02-24,5,70.8,354.0,Easypaisa,Shipped
+1416,Faisal Javed,faisal.javed23@gmail.com,0345-7017399,58,Islamabad,Keyboard,2026-03-12,3,44.41,133.23,Credit Card,Shipped
+1417,Ali Butt,ali.butt48@yahoo.com,0312-5414413,22,Faisalabad,Keyboard,2026-08-25,2,33.75,67.5,JazzCash,Completed
+1418,Omar Qureshi,omar.qureshi61@mail.com,Not provided,52,Unknown,Mouse,2026-01-13,2,12.67,25.0,Credit Card,Shipped
+1419,Hassan Ahmed,hassan.ahmed19@yahoo.com,0312-4437702,59,Faisalabad,Tablet,2026-09-09,4,329.74,1318.96,Cash on Delivery,Cancelled
+1420,Kamran Chaudhry,kamran.chaudhry61@mail.com,0302-2156762,36,Islamabad,Mouse,,1,18.83,18.83,Cash,Completed
+1421,Hamza Zahra,hamza.zahra83@yahoo.com,0315-2942511,42,Faisalabad,Unknown,2026-02-03,3,29.36,88.0,Cash,Cancelled
+1422,Saad Malik,saad.malik13@hotmail.com,0321-9282573,65,Karachi,Mouse,2026-01-29,1,16.27,16.27,Cash,Completed
+1423,Imran Sheikh,imran.sheikh98@outlook.com,0301-9008251,21,Karachi,Phone,2026-04-11,1,698.26,698.26,JazzCash,Cancelled
+1424,Talha Ali,talha.ali35@mail.com,0333-8510963,36,Faisalabad,Keyboard,2026-05-16,2,51.54,103.0,Cash,Cancelled
+1425,Nida Chaudhry,nida.chaudhry88@outlook.com,0312-1823879,31,Rawalpindi,Laptop,2026-06-13,4,1384.06,5536.0,Easypaisa,Cancelled
+1426,Zain Aslam,zain.aslam61@hotmail.com,0321-5598928,65,Rawalpindi,Mouse,2026-08-06,1,14.49,14.49,Credit Card,Shipped
+1427,Sara Siddiqui,sara.siddiqui72@yahoo.com,0344-7383705,24,Islamabad,Tablet,2026-06-16,1,440.61,440.61,Easypaisa,Completed
+1428,Saad Hussain,saad.hussain96@gmail.com,0345-2546321,55,Faisalabad,Mouse,2026-02-15,2,48.31,96.62,JazzCash,Pending
+1429,Mehwish Qureshi,mehwish.qureshi43@yahoo.com,0321-4284192,19,Rawalpindi,Headphones,2026-07-30,1,72.46,72.46,Credit Card,Completed
+1430,Komal Qureshi,komal.qureshi15@outlook.com,0344-1471869,47,Lahore,Tablet,2026-02-07,1,157.29,157.29,Cash,Completed
+1431,Danish Butt,Not provided,0302-4342831,55,Islamabad,Laptop,2026-08-23,2,827.17,1654.0,Easypaisa,Cancelled
+1432,Bilal Ali,bilal.ali26@hotmail.com,0321-3908736,31,Lahore,Headphones,2026-03-12,1,46.69,46.69,Credit Card,Shipped
+1433,Ali Chaudhry,ali.chaudhry21@yahoo.com,0315-6012792,38,Lahore,Headphones,2026-02-16,2,153.91,307.82,Cash,Cancelled
+1434,Ali Khan,ali.khan50@mail.com,Not provided,64,Islamabad,Monitor,2026-01-24,1,385.13,385.13,Easypaisa,Unknown
+1435,Faisal Raza,faisal.raza95@yahoo.com,0301-2724178,44,Karachi,Phone,2026-07-11,2,701.8,1403.6,Cash on Delivery,Unknown
+1436,Unknown,ali.butt12@mail.com,0301-7980743,44,Karachi,Laptop,2026-03-10,1,1322.17,1322.17,Credit Card,Cancelled
+1437,Junaid Iqbal,junaid.iqbal85@gmail.com,0345-4736204,24,Karachi,Phone,2026-04-05,1,459.87,460.0,Bank Transfer,Returned
+1438,Talha Qureshi,Not provided,0302-0240278,20,Lahore,Keyboard,2026-03-24,3,58.29,174.87,Unknown,Shipped
+1439,Zain Aslam,zain.aslam71@mail.com,0333-8708598,41,Islamabad,Monitor,2026-03-06,1,269.19,269.19,Credit Card,Pending
+1440,Bilal Zahra,bilal.zahra26@hotmail.com,0302-9443609,51,Faisalabad,Tablet,2026-07-05,2,353.65,707.3,JazzCash,Completed
+1441,Hina Noor,hina.noor67@mail.com,0315-5400942,37,Islamabad,Unknown,2026-05-09,2,34.64,69.0,Cash,Cancelled
+1442,Rabia Tariq,rabia.tariq45@gmail.com,0321-2356197,25,Karachi,Laptop,2026-04-16,1,1228.62,1229.0,Cash on Delivery,Unknown
+1443,Hina Qureshi,hina.qureshi35@gmail.com,0321-1893100,45,Karachi,Tablet,2026-09-07,2,385.91,771.82,Credit Card,Cancelled
+1444,Rabia Zahra,rabia.zahra33@hotmail.com,Not provided,49,Islamabad,Phone,2026-05-17,2,815.08,1630.16,Bank Transfer,Cancelled
+1445,Hassan Aslam,hassan.aslam91@outlook.com,0345-0668822,46,Lahore,Monitor,,3,320.19,960.57,Easypaisa,Shipped
+1446,Noor Khan,noor.khan32@hotmail.com,0300-5444414,58,Islamabad,Phone,2026-04-18,1,618.5,618.5,Easypaisa,Shipped
+1447,Saad Zahra,saad.zahra80@mail.com,0345-3391499,63,Islamabad,Headphones,2026-08-13,3,166.78,500.34,Credit Card,Completed
+1448,Zain Aslam,zain.aslam34@yahoo.com,0344-5935773,42,Lahore,Tablet,2026-05-31,2,558.97,1117.94,Cash on Delivery,Cancelled
+1449,Unknown,hassan.ahmed3@outlook.com,0315-6954589,54,Karachi,Phone,2026-09-23,2,606.19,1212.0,Cash on Delivery,Shipped
+1450,Zara Iqbal,zara.iqbal65@mail.com,0301-3822259,63,Karachi,Monitor,2026-04-25,4,242.18,969.0,Credit Card,Cancelled
+1451,Iqra Aslam,iqra.aslam33@gmail.com,0315-7228128,26,Lahore,Monitor,2026-08-20,5,141.34,707.0,Cash,Cancelled
+1452,Zara Qureshi,zara.qureshi94@yahoo.com,0302-3040670,44,Lahore,Monitor,2026-03-03,1,167.6,167.6,Cash on Delivery,Returned
+1453,Ahmed Siddiqui,ahmed.siddiqui82@gmail.com,0301-8789034,56,Karachi,Monitor,2026-01-31,1,349.82,349.82,Credit Card,Cancelled
+1454,Ali Khan,ali.khan20@outlook.com,0302-7393678,29,Karachi,Tablet,2026-01-16,1,323.14,323.0,Credit Card,Pending
+1455,Komal Farooq,komal.farooq9@hotmail.com,0302-4017327,49,Rawalpindi,Laptop,2026-01-22,1,944.34,944.34,JazzCash,Returned
+1456,Imran Aslam,imran.aslam81@mail.com,0345-1382256,49,Karachi,Laptop,2026-07-19,1,1293.44,1293.44,Cash,Completed
+1457,Faisal Ahmed,faisal.ahmed88@mail.com,0344-2991211,61,Lahore,Phone,2026-02-20,1,865.41,865.41,Cash,Completed
+1458,Imran Ali,imran.ali23@mail.com,0333-6743748,44,Unknown,Monitor,2026-05-13,2,188.22,376.44,Easypaisa,Returned
+1459,Nida Ali,nida.ali90@mail.com,0312-1183202,25,Rawalpindi,Mouse,2026-02-04,1,38.94,38.94,Bank Transfer,Returned
+1460,Imran Hussain,Not provided,0301-3836027,44,Faisalabad,Tablet,2026-02-04,1,391.32,391.32,JazzCash,Cancelled
+1461,Rabia Ahmed,rabia.ahmed51@mail.com,0321-8482469,44,Islamabad,Mouse,,2,47.21,94.0,Cash,Pending
+1462,Mehwish Noor,mehwish.noor1@mail.com,Not provided,44,Islamabad,Phone,2026-04-25,1,605.63,605.63,Unknown,Completed
+1463,Danish Mirza,danish.mirza47@yahoo.com,0302-6517139,28,Rawalpindi,Keyboard,2026-08-10,1,63.36,63.36,JazzCash,Cancelled
+1465,Zain Hussain,zain.hussain56@yahoo.com,0300-3463711,60,Islamabad,Phone,2026-07-25,1,555.65,556.0,Credit Card,Cancelled
+1466,Unknown,maria.raza7@hotmail.com,0333-5984371,27,Lahore,Headphones,2026-02-03,1,187.63,188.0,Easypaisa,Cancelled
+1467,Iqra Butt,iqra.butt36@yahoo.com,0302-7464248,20,Rawalpindi,Mouse,2026-08-31,1,15.36,15.36,Credit Card,Shipped
+1468,Komal Chaudhry,komal.chaudhry20@gmail.com,0312-5380429,23,Islamabad,Keyboard,2026-01-09,1,57.89,57.89,Credit Card,Pending
+1469,Zain Qureshi,zain.qureshi59@gmail.com,0300-2191940,57,Rawalpindi,Unknown,2026-01-10,4,591.92,2367.68,JazzCash,Completed
+1470,Imran Iqbal,Not provided,0333-8536101,19,Islamabad,Mouse,2026-05-05,1,23.76,23.76,Credit Card,Pending
