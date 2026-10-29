@@ -1,0 +1,6 @@
+pandas
+numpy
+openpyxl
+# Jupyter is only needed to run the notebook locally.
+# In Google Colab, pandas, numpy and openpyxl are already available.
+jupyter
